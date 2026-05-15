@@ -79,10 +79,16 @@ Acesso via cliente Windows:
 - Configuração do Samba
 - Segurança em ambientes corporativos
   
-
 ## 🚀 Projeto
 
-Este projeto demonstra a implementação de um servidor de arquivos em ambiente corporativo real, incluindo controle de acesso por grupos, segurança e gerenciamento de usuários.
+Este projeto demonstra a implementação de um servidor de arquivos em ambiente corporativo real, incluindo controle de acesso por grupos, segurança e gerenciamento 
+de usuários.
+
+## 📚 Documentação Completa
+
+Para detalhes técnicos da implementação:
+
+👉 ./configuracao-avancada.md
 
 ## 👨‍💻 Autor
 
