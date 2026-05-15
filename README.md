@@ -88,7 +88,7 @@ de usuários.
 
 Para detalhes técnicos da implementação:
 
-👉 configuracao-avancada.md
+configuracao-avancada.md
 
 ## 👨‍💻 Autor
 
