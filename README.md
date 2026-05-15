@@ -91,6 +91,7 @@ Para detalhes técnicos da implementação:
 👉 [Abrir documentação completa](configuracao-avancada.md)
 
 
+
 ## 👨‍💻 Autor
 
 Desenvolvido por Anderson Gomes Meireles
