@@ -1,4 +1,4 @@
-# Servidor de Arquivos com Samba em Linux
+# Servidor de Arquivos Corporativo com Samba em Linux
 
 ## 📌 Descrição
 Implementação de servidor de arquivos em ambiente corporativo utilizando Linux e Samba, com controle de acesso baseado em grupos.
@@ -78,4 +78,13 @@ Acesso via cliente Windows:
 - Gerenciamento de permissões
 - Configuração do Samba
 - Segurança em ambientes corporativos
+  
+
+## 🚀 Projeto
+
+Este projeto demonstra a implementação de um servidor de arquivos em ambiente corporativo real, incluindo controle de acesso por grupos, segurança e gerenciamento de usuários.
+
+## 👨‍💻 Autor
+
+Desenvolvido por Anderson Gomes Meireles
 
